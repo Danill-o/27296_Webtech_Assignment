@@ -26,6 +26,10 @@ Key rules extracted from the statement:
  3. Relational database schema
 
 
- 6. PostgreSQL database demonstrating the generated tables and relationships.
+ 4. PostgreSQL database demonstrating the generated tables and relationships.
 
- 7. Screenshots demonstrating successful table generation and relationship mappings
+ 5. Screenshots demonstrating successful table generation and relationship mappings
+
+    <img width="1262" height="567" alt="Tables" src="https://github.com/user-attachments/assets/d2cac5a6-844f-484b-b2dd-a2faeec0fbff" />
+
+   
