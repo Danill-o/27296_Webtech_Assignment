@@ -1,6 +1,7 @@
 # 27296_Webtech_Assignment
 
  1. Problem Analysis and Database Design
+    
 The university currently keeps academic records manually, which makes it hard to manage students, organise courses, assign lecturers and track registrations. The system must store departments, students and their personal profiles, lecturers, courses, and the registrations that link students to courses. Each registration must also record the registration date, academic year, semester, status (PENDING, APPROVED or REJECTED) and the grade obtained.
 Key rules extracted from the statement:
 
@@ -22,7 +23,8 @@ Key rules extracted from the statement:
   
 <img width="512" height="449" alt="image" src="https://github.com/user-attachments/assets/6e46a5e6-93b3-43f1-af42-9a3aacc79a2e" />
 
- 5. Relational database schema
+ 3. Relational database schema
+
 
  6. PostgreSQL database demonstrating the generated tables and relationships.
 
