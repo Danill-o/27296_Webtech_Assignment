@@ -20,7 +20,7 @@ Key rules extracted from the statement:
 
  2.  Entity Relationship Diagram (ERD)
   
-    <img width="512" height="449" alt="image" src="https://github.com/user-attachments/assets/6e46a5e6-93b3-43f1-af42-9a3aacc79a2e" />
+<img width="512" height="449" alt="image" src="https://github.com/user-attachments/assets/6e46a5e6-93b3-43f1-af42-9a3aacc79a2e" />
 
  5. Relational database schema
 
