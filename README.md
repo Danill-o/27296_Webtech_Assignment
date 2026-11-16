@@ -24,7 +24,11 @@ Key rules extracted from the statement:
 <img width="467" height="458" alt="image" src="https://github.com/user-attachments/assets/2bc91881-8328-48f6-a8e1-c19beb651423" />
 
 
- 3. Screenshots demonstrating successful table generation and relationship mappings
+ 3.The successful Spring Boot startup log showing Hibernate SQL/table generation.
+ 
+   <img width="992" height="680" alt="image" src="https://github.com/user-attachments/assets/b2633c40-3b7e-4cf3-b8e1-101fee6ddda3" />
+
+ 4. Screenshots demonstrating successful table generation and relationship mappings
 
     <img width="1262" height="567" alt="Tables" src="https://github.com/user-attachments/assets/d2cac5a6-844f-484b-b2dd-a2faeec0fbff" />
 
