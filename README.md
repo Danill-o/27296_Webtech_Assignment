@@ -23,12 +23,7 @@ Key rules extracted from the statement:
   
 <img width="512" height="449" alt="image" src="https://github.com/user-attachments/assets/6e46a5e6-93b3-43f1-af42-9a3aacc79a2e" />
 
- 3. Relational database schema
-
-
- 4. PostgreSQL database demonstrating the generated tables and relationships.
-
- 5. Screenshots demonstrating successful table generation and relationship mappings
+ 3. Screenshots demonstrating successful table generation and relationship mappings
 
     <img width="1262" height="567" alt="Tables" src="https://github.com/user-attachments/assets/d2cac5a6-844f-484b-b2dd-a2faeec0fbff" />
 
