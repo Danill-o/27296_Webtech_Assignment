@@ -1,6 +1,6 @@
 # 27296_Webtech_Assignment
 
- 1. Problem Analysis and Database Design
+ 1. Problem Analysis 
     
 The university currently keeps academic records manually, which makes it hard to manage students, organise courses, assign lecturers and track registrations. The system must store departments, students and their personal profiles, lecturers, courses, and the registrations that link students to courses. Each registration must also record the registration date, academic year, semester, status (PENDING, APPROVED or REJECTED) and the grade obtained.
 Key rules extracted from the statement:
